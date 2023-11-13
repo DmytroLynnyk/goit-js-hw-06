@@ -12,6 +12,8 @@ const images = [
     alt: "Group of Horses Running",
   },
 ];
+
+// Option #1
 const gallery = document.querySelector(".gallery");
 gallery.style.display = "flex";
 gallery.style.flexDirection = "column";
